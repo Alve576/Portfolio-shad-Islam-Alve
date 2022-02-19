@@ -1,0 +1,11 @@
+
+ 
+
+  
+  .text {
+    background-color: transparent;
+    border: 5px solid #64ffda;
+    color: #64ffda;
+    font-size: 16px;
+    padding: 16px 32px;
+  }

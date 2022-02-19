@@ -1,0 +1,11 @@
+{
+  "hosting": [
+    {
+      "target": "partwizard",
+      "public": "public"
+    }
+  ],
+  "projects": {
+    "default": "react-firebase-authe-7123d"
+  }
+}
